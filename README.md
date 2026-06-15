@@ -1,2 +1,16 @@
 # AI-8-Puzzle-Solver
-Developed an 8-Puzzle Solver in Python using Iterative Deepening Search (IDS) and multiple heuristic functions (Hamming Distance, Manhattan Distance, and Misplaced Tiles). Implemented a Tkinter-based graphical interface for puzzle visualization and solution playback.
+Features
+
+✔ Iterative Deepening Search (IDS)
+
+✔ Hamming Distance Heuristic
+
+✔ Manhattan Distance Heuristic
+
+✔ Misplaced Tiles Heuristic
+
+✔ Graphical User Interface using Tkinter
+
+✔ Solution Path Visualization
+
+✔ Execution Time Measurement
